@@ -1,4 +1,4 @@
-# Churros Samosa Classifier
+# Greek Salad and Ice cream Classifier
 
 ### Tools used
 
